@@ -1,2 +1,2 @@
-ggg:x
+First project with git
 
